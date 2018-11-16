@@ -18,7 +18,7 @@
 
 import os, socket, sys, ssl
 
-def main(self):
+def main():
     porta = 9999 #porta do ssl
     host = 'localhost' # host do ssl
 
