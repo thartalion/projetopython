@@ -48,6 +48,7 @@ class Principal:
         self.btnQuit.grid(row=5, column=1)
         status = StringVar()
         self.txtStatus = Text(root, width=30, height=10)
+        # self.txtStatus.insert(0, "texto padrão")
         self.txtStatus.grid(row=6, column=0, columnspan=2)
 
     def status(self):
@@ -60,7 +61,7 @@ class Principal:
         self.txtSelectButton.insert(0, fdir)
         return str(fdir)
 
-    def conectar(self, diretorio, eserver, pssl, pdados):
+    def conectar(diretorio, eserver, pssl, pdados):
         self.txtStatus.insert(0, "tezte")
         #self.txtStatus.insert(0, "=== Servidor inicializado ===")
         # esse bloco recebe o nome do arquivo, através de uma cnx exclusiva na porta 54321
@@ -114,3 +115,4 @@ def main():
 
 # Cria a instancia
 if __name__ == '__main__': main()
+

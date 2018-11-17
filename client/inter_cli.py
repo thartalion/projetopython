@@ -34,7 +34,7 @@ class Principal:
 		# seleção do arquivo para envio
 		arquivo = StringVar()
 		self.txtSelectButton = ttk.Entry(root, textvariable = arquivo, width=30)
-		self.txtSelectButton.insert(0, "texto padrão")
+		self.txtSelectButton.config(state='disabled')
 		self.txtSelectButton.grid(row=4, column=1)
 
 		self.btnSelectButton = ttk.Button(root, text = 'Selecionar Arquivo', command = self.askfile)
@@ -48,6 +48,7 @@ class Principal:
 
 	def askfile(self):
 		fname = askopenfilename()
+		self.txtSelectButton.config(state='enabled')
 		self.txtSelectButton.delete(0, END)
 		self.txtSelectButton.insert(0, fname)
 		return str(fname)
