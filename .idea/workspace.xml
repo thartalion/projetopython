@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90c3a058-3a59-4b64-8053-d4669532b20f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/inter_cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/inter_cli.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/inter_serv.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/inter_serv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +16,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/projeto$client.coverage" NAME="client Coverage Results" MODIFIED="1542379108005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
-    <SUITE FILE_PATH="coverage/projeto$inter_serv.coverage" NAME="inter_serv Coverage Results" MODIFIED="1542419616080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/projeto$inter_serv.coverage" NAME="inter_serv Coverage Results" MODIFIED="1542424278053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
     <SUITE FILE_PATH="coverage/projeto$server.coverage" NAME="server Coverage Results" MODIFIED="1542404035212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
     <SUITE FILE_PATH="coverage/projeto$Car.coverage" NAME="Car Coverage Results" MODIFIED="1542376324831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/projeto$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1542377134954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
     <SUITE FILE_PATH="coverage/projeto$teste.coverage" NAME="teste Coverage Results" MODIFIED="1542419543580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
-    <SUITE FILE_PATH="coverage/projeto$inter_cli.coverage" NAME="inter_cli Coverage Results" MODIFIED="1542410712026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
+    <SUITE FILE_PATH="coverage/projeto$inter_cli.coverage" NAME="inter_cli Coverage Results" MODIFIED="1542424286933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1908755658">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.opened" value="2" />
@@ -37,7 +38,7 @@
           <entry key="jpg" value="1" />
           <entry key="key" value="2" />
           <entry key="md" value="1" />
-          <entry key="py" value="20" />
+          <entry key="py" value="22" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
           <entry key="xml" value="1" />
@@ -48,21 +49,21 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="22" />
           <entry key="PythonStub" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8512" />
-          <entry key="txt" value="78" />
+          <entry key="py" value="9576" />
+          <entry key="txt" value="157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="78" />
-          <entry key="Python" value="8512" />
+          <entry key="PLAIN_TEXT" value="157" />
+          <entry key="Python" value="9576" />
         </counts>
       </usages-collector>
     </session>
@@ -72,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/inter_cli.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="57" column="41" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="52" />
+            <state relative-caret-position="651">
+              <caret line="83" column="42" lean-forward="true" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
               <folding>
                 <element signature="e#48#75#0" expanded="true" />
               </folding>
@@ -84,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/inter_serv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="147">
+              <caret line="81" column="54" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
               <folding>
                 <element signature="e#48#75#0" expanded="true" />
               </folding>
@@ -123,8 +124,8 @@
         <option value="$PROJECT_DIR$/client/__init__.py" />
         <option value="$PROJECT_DIR$/client/client.py" />
         <option value="$PROJECT_DIR$/server/server.py" />
-        <option value="$PROJECT_DIR$/client/inter_cli.py" />
         <option value="$PROJECT_DIR$/server/teste.py" />
+        <option value="$PROJECT_DIR$/client/inter_cli.py" />
         <option value="$PROJECT_DIR$/server/inter_serv.py" />
       </list>
     </option>
@@ -158,18 +159,6 @@
               <item name="projeto" type="b2602c69:ProjectViewProjectNode" />
               <item name="projeto" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projeto" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="cert" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projeto" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="send" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="projeto" type="b2602c69:ProjectViewProjectNode" />
@@ -215,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.inter_serv">
+  <component name="RunManager" selected="Python.inter_cli">
     <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projeto" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,9 +324,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inter_cli" />
         <item itemvalue="Python.inter_serv" />
         <item itemvalue="Python.teste" />
-        <item itemvalue="Python.inter_cli" />
         <item itemvalue="Python.server" />
         <item itemvalue="Python.client" />
       </list>
@@ -361,19 +350,25 @@
       <option name="project" value="LOCAL" />
       <updated>1542408892463</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tentando fazer a tela do servidor atualiza automaticamente a caixa de texto">
+      <created>1542419653450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542419653450</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1686" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17582418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286052" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.35579196" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.35579196" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,7 +428,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criada a interface do cliente com algumas exceções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada a interface do cliente com algumas exceções" />
+    <MESSAGE value="Tentando fazer a tela do servidor atualiza automaticamente a caixa de texto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tentando fazer a tela do servidor atualiza automaticamente a caixa de texto" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Car.py" />
@@ -483,16 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/inter_cli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="57" column="41" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="52" />
-          <folding>
-            <element signature="e#48#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/teste.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -500,10 +486,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client/inter_cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="83" column="42" lean-forward="true" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
+          <folding>
+            <element signature="e#48#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/inter_serv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="147">
+          <caret line="81" column="54" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
           <folding>
             <element signature="e#48#75#0" expanded="true" />
           </folding>

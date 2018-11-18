@@ -99,6 +99,7 @@ class Conexao:
 
 def main():
 	root = Tk()
+	root.title("Transferir arquivo - cliente")
 	janela = Principal(root)
 	root.mainloop()
 
